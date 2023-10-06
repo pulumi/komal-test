@@ -1,0 +1,4 @@
+config:
+  pulumi:template: typescript
+environment:
+  - komal-test
